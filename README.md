@@ -50,9 +50,8 @@ InvestmentCalculator.cpp # Program logic and calculations
 g++ AirgeadBankingProject.cpp InvestmentCalculator.cpp -o airgead
 ./airgead
 
----
 
-### 📊 Example Output
+📊 Example Output
 ********** Data Input **********
 Initial Investment Amount: 800
 Monthly Deposit: 60
