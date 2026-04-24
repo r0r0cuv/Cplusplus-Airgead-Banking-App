@@ -2,25 +2,24 @@
 C++ console application that simulates compound interest and compares investment growth with and without monthly deposits.
 
 
-# 💰 Airgead Banking App (C++)
+# 💰 Airgead Banking App
+
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![OOP](https://img.shields.io/badge/Concept-OOP-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
 
 ## 📌 Overview
-The **Airgead Banking App** is a console-based C++ program that simulates investment growth using compound interest. It allows users to compare how an investment grows over time **with and without monthly deposits**.
+The **Airgead Banking App** is a console-based C++ application that simulates investment growth using compound interest. It compares how an investment grows over time with and without monthly deposits.
 
-This project was developed as part of my coursework to demonstrate object-oriented programming, financial calculations, and clean program structure.
-
----
+This project demonstrates object-oriented programming, financial calculations, and clean code structure.
 
 ## 🚀 Features
 - Calculates compound interest over time  
-- Compares:
-  - Investment **without monthly deposits**
-  - Investment **with monthly deposits**
-- Displays **year-by-year balance and interest earned**
-- Uses **clean, formatted table output**
-- Built using **object-oriented programming (OOP)**
-
----
+- Compares investment growth with and without monthly deposits  
+- Displays year-by-year balance and interest earned  
+- Uses clean, formatted table output  
+- Built using object-oriented programming (OOP)  
 
 ## 🛠️ Technologies Used
 - C++
@@ -28,28 +27,23 @@ This project was developed as part of my coursework to demonstrate object-orient
 - Standard Library (`iostream`, `iomanip`)
 - Visual Studio
 
----
-
 ## 📂 Project Structure
-AirgeadBankingProject.cpp # Main file (program entry point)
+AirgeadBankingProject.cpp # Main entry point
 InvestmentCalculator.h # Class declaration
-InvestmentCalculator.cpp # Program logic and calculations
+InvestmentCalculator.cpp # Program logic
 
 
----
-
-## ⚙️ How to Run the Program
+## ⚙️ How to Run
 
 ### Option 1: Visual Studio
 1. Open the `.sln` file  
 2. Click **Build → Rebuild Solution**  
-3. Press **Ctrl + F5**  
+3. Press **Ctrl + F5**
 
 ### Option 2: Terminal (g++)
 ```bash
 g++ AirgeadBankingProject.cpp InvestmentCalculator.cpp -o airgead
 ./airgead
-
 
 📊 Example Output
 ********** Data Input **********
@@ -77,19 +71,14 @@ Year  Year End Balance    Year End Earned Interest
 4     $3965.37            $107.26
 5     $4817.79            $132.42
 6     $5696.14            $158.35
+📸 Program Output
 
----
 🎯 Learning Outcomes
-Applied compound interest formulas
+Implemented compound interest calculations
 Practiced loops and function design
-Improved output formatting and alignment
-Strengthened modular programming in C++
+Improved output formatting and readability
+Applied modular programming using C++
 👩‍💻 Author
 
 Rosalie Reblora (Rose)
 Bachelor of Science in Computer Science
-
-
-📌 Notes
-
-This project is for educational purposes and demonstrates financial modeling using C++.
