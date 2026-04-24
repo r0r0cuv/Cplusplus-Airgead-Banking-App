@@ -45,7 +45,9 @@ InvestmentCalculator.cpp # Program logic
 g++ AirgeadBankingProject.cpp InvestmentCalculator.cpp -o airgead
 ./airgead
 
-📊 Example Output
+
+
+### 📊 Example Output
 ********** Data Input **********
 Initial Investment Amount: 800
 Monthly Deposit: 60
@@ -78,7 +80,7 @@ Implemented compound interest calculations
 Practiced loops and function design
 Improved output formatting and readability
 Applied modular programming using C++
-👩‍💻 Author
 
+👩‍💻 Author
 Rosalie Reblora (Rose)
 Bachelor of Science in Computer Science
