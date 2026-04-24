@@ -31,6 +31,9 @@ This project was developed as part of my coursework to demonstrate object-orient
 ---
 
 ## 📂 Project Structure
+AirgeadBankingProject.cpp # Main file (program entry point)
+InvestmentCalculator.h # Class declaration
+InvestmentCalculator.cpp # Program logic and calculations
 
 
 ---
@@ -73,6 +76,7 @@ Year  Year End Balance    Year End Earned Interest
 5     $4817.79            $132.42
 6     $5696.14            $158.35
 
+---
 🎯 Learning Outcomes
 Applied compound interest formulas
 Practiced loops and function design
