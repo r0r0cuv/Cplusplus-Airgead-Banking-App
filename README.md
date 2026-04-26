@@ -75,6 +75,9 @@ Year  Year End Balance    Year End Earned Interest
 6     $5696.14            $158.35
 📸 Program Output
 
+<img width="1093" height="546" alt="image" src="https://github.com/user-attachments/assets/d72ead2b-adfa-43d3-b92d-d228bde6634a" />
+
+
 🎯 Learning Outcomes
 Implemented compound interest calculations
 Practiced loops and function design
