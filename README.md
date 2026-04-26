@@ -77,7 +77,7 @@ Year  Year End Balance    Year End Earned Interest
 
 ## 📸 Program Output
 
-![Program Output](AirgeadOutput.jpg)
+![Program Output](AirGeadOutput.jpg)
 
 
 
