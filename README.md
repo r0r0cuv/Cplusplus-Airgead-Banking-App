@@ -41,6 +41,9 @@ InvestmentCalculator.cpp # Program logic
 
 ## ⚙️ How to Run
 
+
+## ⚙️ How to Run
+
 ### Option 1: Visual Studio
 1. Open the `.sln` file  
 2. Click **Build → Rebuild Solution**  
