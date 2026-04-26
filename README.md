@@ -9,6 +9,12 @@ C++ console application that simulates compound interest and compares investment
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
 
+
+## 📸 Program Output
+
+![Program Output](images/screenshot.jpg)
+
+
 ## 📌 Overview
 The **Airgead Banking App** is a console-based C++ application that simulates investment growth using compound interest. It compares how an investment grows over time with and without monthly deposits.
 
