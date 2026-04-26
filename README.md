@@ -77,7 +77,9 @@ Year  Year End Balance    Year End Earned Interest
 
 ## 📸 Program Output
 
-![Program Output](screenshot.jpg)
+## 📸 Program Output
+
+![Program Output](images/screenshot.jpg)
 
 
 
