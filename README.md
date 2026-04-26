@@ -73,9 +73,8 @@ Year  Year End Balance    Year End Earned Interest
 4     $3965.37            $107.26
 5     $4817.79            $132.42
 6     $5696.14            $158.35
-📸 Program Output
+📸 Program Output ![Program Output](AirGeadOutput.jpg)
 
-<img width="1093" height="546" alt="image" src="https://github.com/user-attachments/assets/d72ead2b-adfa-43d3-b92d-d228bde6634a" />
 
 
 🎯 Learning Outcomes
